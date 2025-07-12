@@ -29,6 +29,12 @@
       "url": "https://github.com/Arijit-Kumar-Pandab",
       "icon": "github",
       "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arijit-kumar-pandab-666b301b1/",
+      "icon": "linkedin",
+      "required": false
     }
   ],
   "github_username": "Arijit-Kumar-Pandab",
