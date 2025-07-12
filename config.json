@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Arijit Kumar Pandab",
-    "tagline": "Developer and Creator."
+    "tagline": "Developer and DevOps Engineer"
   },
   "social_links": [
     {
@@ -34,8 +34,7 @@
   "github_username": "Arijit-Kumar-Pandab",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
-      "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
+      "Currently working as a DevOps Engineer at Capgemini. I specialize in DevOps practices with a strong focus on Kubernetes and cloud technologies, particularly AWS."
     ]
   },
   "projects": {
@@ -61,14 +60,13 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "Capgemini",
+        "role": "DevOps Engineer",
+        "date": "July 2024 - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Responsible for managing and automating infrastructure using Linux, Docker, Kubernetes, Ansible, Terraform, and AWS.",
+          "Experienced in monitoring and observability with Dynatrace, OpenTelemetry, Grafana, and Prometheus.",
+          "Skilled in version control and collaboration using Git, GitHub, and VS Code."
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -84,7 +82,8 @@
           "JavaScript",
           "Python",
           "Java",
-          "TypeScript"
+          "Kotlin",
+          "Linux"
         ]
       },
       {
@@ -93,15 +92,23 @@
           "Git",
           "GitHub",
           "VS Code",
-          "Docker"
+          "Docker",
+          "Kubernetes",
+          "Ansible",
+          "Terraform",
+          "Dynatrace",
+          "OpenTelemetry",
+          "Grafana",
+          "Prometheus",
+          "AWS"
         ]
       },
       {
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
+            "name": "AWS CCP",
+            "url": "https://www.credly.com/badges/74e5c1be-a1de-44dc-b806-9cc2255e2f45/linked_in_profile"
           },
           "You can also add certifications without links"
         ]
